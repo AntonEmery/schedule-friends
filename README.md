@@ -1,0 +1,1 @@
+A full stack app for friends to schedule social events.
