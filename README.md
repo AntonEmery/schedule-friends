@@ -1,1 +1,2 @@
-A full stack app for friends to schedule social events.
+A web app using node, react, and sql.
+
